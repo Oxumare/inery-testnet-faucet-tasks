@@ -16,7 +16,7 @@ sudo apt-get install -y nodejs
    ```shell
 sudo apt install npm
 ```  
-## Change directory to aprameth
+## Change directory to .okaliptus
    ```
    cd ./okaliptus
    ```
