@@ -30,5 +30,5 @@ sudo apt install npm
    ```
 ## Run the script
 ```
-npm run npm run solution
+npm run solution
 ```
